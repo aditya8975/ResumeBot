@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.66.0",
+    "openai": "^4.80.1",
+    "path": "^0.12.7",
+    "pdf-parse": "^1.1.1",
+    "textract": "^2.5.0"
+  }
+}
